@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://peopleunleashed.s3-website-us-east-1.amazonaws.com/"
+baseurl = "https://people-unleashed.com/"
 title = "PEOPLE Unleashed"
 theme = "story"
 paginate = 5
