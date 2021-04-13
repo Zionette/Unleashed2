@@ -84,7 +84,7 @@ background-image: url(leo-serrat-533922-unsplash.jpg)
 ---
 class: img-caption
 ![Image](VerticalGarden1.png)
-
+Cabbage~Cauliflour~Zucchini~Pickle Cucumbers~Tomatoes~Long Green Beans
 ---
 class: img-caption
 ![Image](VerticalGarden2.png)
