@@ -1,3 +1,34 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+# Site settings
+baseurl = "http://peopleunleashed.s3-website-us-east-1.amazonaws.com/"
+title = "PEOPLE Unleashed"
+theme = "story"
+paginate = 5
+buildFuture = true
+
+[[menu.main]]
+  name = "Handmade-by-Zionette"
+  title = "Handmade by Zionette"
+  url = "/features"
+
+
+[[menu.main]]
+  name = "Slides"
+  title = "Slides"
+  url = "/slides/"
+
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
+
+[params]
+  author = "PEOPLE Unleashed"
+  twitter = "xaprb"
+  classes = []
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
