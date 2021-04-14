@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://people-unleashed.com/"
+baseurl = "https://people-unleashed.com/"
 title = "PEOPLE Unleashed"
 theme = "story"
 paginate = 5
