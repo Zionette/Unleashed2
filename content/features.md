@@ -19,5 +19,7 @@ Lion Brand yarns have been on the market since 1878, making it the oldest manufa
 
 It gives me great pride to hand make items and use products from other locals.
 
+Patons 
+
 
 Read next: [Zionette's Story](/slides/).
