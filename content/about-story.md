@@ -6,7 +6,7 @@ description: "AWS Certified Solutions Architecht"
 tldr: "AWS Certified Solutions Architecht"
 credit: "https://unsplash.com/photos/o-ubWHV29Uk"
 image: "img/Cloud4z2Certs.png"
-thumbnail: img/Cloud4z2pic3.png
+thumbnail: img/Cloud4z2Pic.png
 categories:
 - 
 ---
