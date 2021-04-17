@@ -3,7 +3,7 @@ title: Bio Dome Homes
 date: "2021-04-11"
 url: "/music"
 description: "Story can render music notation in your website."
-credit: "https://unsplash.com/photos/UpdR5OaUJl0"
+credit: ""
 image: "img/BioVeda2.png"
 thumbnail: img/BioVeda.png
 classes:
